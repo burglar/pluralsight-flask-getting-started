@@ -4,3 +4,5 @@ flask-env
 .env
 __pycache__
 .vscode/
+startServer.bat
+activate.bat
